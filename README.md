@@ -5,6 +5,7 @@ Project example for Angular
 ## Installation
 
 npm install -g @angular/cli.
+
 npm install
 
 ## Usage
